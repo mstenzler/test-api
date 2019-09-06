@@ -1,0 +1,14 @@
+{ 
+  "auto-enroll": true, 
+  "my-select-list": "First", 
+  "number_input": 3, 
+  "cb-1": true, 
+  "cb-2": true, 
+  "my-radio-group": "Four", 
+  "username": "foobar", 
+  "password": "myFoobar", 
+  "email": "me@test,com", 
+  "phone": "15551234", 
+  "pinpoint_application_id": "fffff", 
+  "text_area": "dfdsgfsd\nfdf\ndsggd\ngdsg\nf" 
+}
