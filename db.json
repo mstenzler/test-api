@@ -1,6 +1,6 @@
 { 
   "my-select-list": "First", 
-  "number_input": 3, 
+  "number_input": "3", 
   "my-radio-group": "Four", 
   "username": "foobar", 
   "text_area": "dfdsgfsd\nfdf\ndsggd\ngdsg\nf" 
